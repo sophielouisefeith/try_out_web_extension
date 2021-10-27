@@ -1,0 +1,28 @@
+{
+  "name": "try_out_web_extension",
+  "version": "1.0.0",
+  "main": "background.js",
+  "dependencies": {
+    "lite-server": "^2.6.1",
+    "polyfill": "^0.1.0",
+    "web3": "^1.6.0",
+    "webext-options-sync": "^3.0.0",
+    "webextension-polyfill": "^0.8.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"dev" : "lite-server"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sophielouisefeith/try_out_web_extension.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sophielouisefeith/try_out_web_extension/issues"
+  },
+  "homepage": "https://github.com/sophielouisefeith/try_out_web_extension#readme",
+  "description": ""
+}
